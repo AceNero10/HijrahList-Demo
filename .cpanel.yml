@@ -1,0 +1,6 @@
+---
+deployments:
+  - deployment: production
+    repository: https://github.com/AceNero10/HijrahList-Demo.git
+    branch: main
+    dir: public_html
